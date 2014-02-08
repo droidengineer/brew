@@ -1,7 +1,9 @@
-# README.md brew ecosystem
+# README brew ecosystem
 ====
 
-The foundation namespace for the apps in the Brew Ecosystem.
+The foundation namespace for the apps in the Brew Ecosystem. It is composed of a variety of key sub-projects. They can all be found later in their relevant section(s).
+
+Wiki: http://wiki.opendesignstrategies.org:8090/display/BREW/
 
 ```
 auto ns = org.ods.brew 
@@ -25,6 +27,9 @@ brew:vm:cpu@1
 ```
 
 
+## BrewScript ##
+
+## BrewASM ##
 
 ## Brew Toolchain ##
 
@@ -39,3 +44,6 @@ brew:vm:cpu@1
 ### brownie-xmega-objdump ###
 
 The
+
+## BrewVM ##
+
